@@ -38,6 +38,6 @@ class ShopListRepositoryImpl(
     ) {
         mapper.mapListDbModelToListEntity(it)
     }
-    
+
 
 }
